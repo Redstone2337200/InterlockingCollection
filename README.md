@@ -1,3 +1,6 @@
+##Resource##
+[Translation.zip](https://github.com/Redstone2337200/InterlockingCollection/files/8354937/default.zip)
+[Chain acquisition subject.zip](https://github.com/Redstone2337200/InterlockingCollection/files/8354938/default.zip)
 # InterlockingCollection
 This is a content about the chain acquisition behavior package.
 If you are an experienced add-on package maker，You can do it.Can you do the script?
